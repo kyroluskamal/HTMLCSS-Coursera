@@ -29,9 +29,6 @@ p{
 	margin-left: auto;
 	padding: 0 15px
 }
-.navbar-default .navbar-brand{
-  color:white;
-}
 /************Responsive deisn**********/
 .row{
   width: 100%;
@@ -57,9 +54,7 @@ p{
   text-align: center;
   font-weight: bold;
 }
-.navbar{
-  background-color: black;
-}
+
 
 
 @media (max-width: 992px) {
@@ -91,5 +86,5 @@ p{
 @media (max-width: 550px) {
   .navbar-default .navbar-nav>li>a{
   font-size: 4vw;
-}
+  }
 }
